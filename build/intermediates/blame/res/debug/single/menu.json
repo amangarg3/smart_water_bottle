@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aman/Downloads/smart_bottle/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/aman/Downloads/smart_bottle/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/aman/Downloads/smart_bottle/build/intermediates/res/merged/debug/menu/device_control_activity.xml",
+        "source": "/home/aman/Downloads/smart_bottle/src/main/res/menu/device_control_activity.xml"
+    },
+    {
+        "merged": "/home/aman/Downloads/smart_bottle/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/aman/Downloads/smart_bottle/src/main/res/menu/bluetooth_chat.xml"
+    }
+]

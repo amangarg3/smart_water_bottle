@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="3492180195454"
+    token="8177219447323639246"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="216" />
+    <task
+        name="instant-run-dex"
+        duration="553" />
+    <task
+        name="instant-run-transform"
+        duration="6" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/aman/Downloads/smart_bottle/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="3105062997197"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/aman/Downloads/smart_bottle/build/outputs/apk/smart_bottle-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3492180195454"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/aman/Downloads/smart_bottle/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
